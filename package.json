@@ -12,9 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^5.3.0"
+    "axios": "^1.20.0",
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14",
+    "string-similarity": "^4.0.4"
   },
   "devDependencies": {
-    "@types/express": "^5.0.6"
+    "@types/express": "^5.0.6",
+    "@types/string-similarity": "^4.0.2"
   }
 }
